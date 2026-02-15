@@ -1,5 +1,5 @@
 # School-management-system
-..
+
 ## Tech Stack - 
 - Frontend - HTML, CSS, Vanilla JS
 - Backend - NodeJS
